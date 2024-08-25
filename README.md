@@ -17,6 +17,9 @@ Component Libraries: Open to any libraries not covered in class
  
 # Usage
  
-The app starts on the Dashboard page, where you can view car statistics and visualizations.
+The app starts on the Dashboard page, where you can view car statistics and visualizations.  
 Navigate to the Highlighted Car page to select and manage highlighted cars.
 Changes to highlighted cars will persist even after the app is reloaded.
+![Screenshot (20)](https://github.com/user-attachments/assets/483223ff-06b1-4f3c-ae59-d09c5e09708e)
+![Screenshot (19)](https://github.com/user-attachments/assets/835028f8-43c6-4362-b1a8-aa3b1630696a)
+![Screenshot (18)](https://github.com/user-attachments/assets/38ef52d5-03f7-46eb-86ea-cdb1cfbc25e9)
