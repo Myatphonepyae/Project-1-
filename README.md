@@ -1,5 +1,5 @@
 # Project-1-
 Team members 
 Myat Phone Pyae(6530204)
-Nan Ei
-Wantan
+NAN EI SHWE SIN HLAING(6530231)
+KHON MIN WAI THAN(6511247)
