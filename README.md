@@ -1,5 +1,17 @@
 # Project-1-
 Team members 
 Myat Phone Pyae(6530204)
-Nan Ei
-Wantan
+Nan Ei Shwe Sin Hlaing (6530231)
+Khon Min Wai Than (6511247)
+
+Overview
+
+This project is a web application built for a market owner to manage car data. It is built using React.js with React Routing, utilizing Local Storage for data persistence. The app does not require a backend since it fetches data from a provided JSON file. 
+
+Usage
+
+The app starts on the Dashboard page, where you can view car statistics and visualizations.
+Navigate to the Highlighted Car page to select and manage highlighted cars.
+Changes to highlighted cars will persist even after the app is reloaded.
+
+
